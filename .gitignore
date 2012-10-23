@@ -1,0 +1,14 @@
+.idea
+hooks/*
+info/*
+config
+description
+.DS_Store
+*.iml
+*.ipr
+*.iws
+*.log
+target
+activemq-data
+test-output
+*.jar
